@@ -1,0 +1,46 @@
+.home{
+    display: flex;
+}
+
+.home-content{
+    position: relative;
+    margin-top: 160px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: aqua;
+    margin-bottom: 200px;
+    
+    
+}
+
+.heading{
+    color:rgba(255, 255, 255, 0.932);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.heading-name{
+    color: rgba(255, 255, 255, 0.934);
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.main-name{
+    color: rgba(255, 255, 255, 0.957);
+    text-shadow: 0 0 3px #00ff2f, 0 0 5px #c300ff;
+}
+
+.image_container{
+    margin-top: 170px;
+    height:250px;
+    width: 250px;
+}
+.photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 100px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+

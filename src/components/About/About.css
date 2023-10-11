@@ -1,0 +1,50 @@
+.about{
+    margin-top: 80px;
+}
+h1{
+    color:rgba(255, 255, 255, 0.932);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.skill-title{
+    text-shadow: 0 0 3px #00ff2f, 0 0 5px #c300ff;
+}
+.content{
+    background-color: rgba(0, 255, 255, 0.765);
+    border-radius: 10px;
+    color: rgb(68, 1, 68);
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    opacity: 0.85;
+    
+}
+
+.social-icons{
+    margin: 10px;
+}
+
+.tech-icons {
+    font-size: 3em !important;
+    margin-right: 15px !important;
+    margin-bottom: 15px !important;
+    padding: 10px !important;
+    border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+    background-color: #c300ffb6;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border-radius: 5px !important;
+    display: table !important;
+    box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+    overflow: hidden !important;
+    transition: all 0.4s ease 0s !important;
+  }
