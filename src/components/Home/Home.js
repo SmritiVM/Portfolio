@@ -2,7 +2,7 @@ import {React} from "react";
 import { Container, Row, Col} from "react-bootstrap";
 import Typewriter from "typewriter-effect";
 
-import Smriti from "../../assets/Smriti_Picture.jpg";
+
 import "./Home.css";
 
 function Home(){
@@ -28,12 +28,7 @@ function Home(){
                                 loop: true,
                                 deleteSpeed: 50}}/>
                         </Col>
-                        {/* <Col md = {5} className="image_container">
-                            <img src = {Smriti}
-                            alt = "home pic"
-                            className="img-fluid photo"
-                            style = {{maxHeight: "450px"}}/>
-                        </Col> */}
+                        
                     </Row>
                 </Container>
             </Container>
